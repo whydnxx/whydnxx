@@ -1,4 +1,4 @@
-![whydn dev](https://whydn.dev/static/87844ab17d13292133965f64b2d852c0/7f945/banner-2020.jpg?raw=true)
+![whydn dev](https://github.com/whydnxx/whydnxx/blob/media/banner.jpg)
 
 ### Hi :wave:
 
