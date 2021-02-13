@@ -3,4 +3,5 @@
 ### Hi :wave:
 
 I am Wahyudin. </br>
-a basic person :wink:
+- Padawan
+- Gryffindor
